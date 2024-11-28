@@ -16,6 +16,8 @@ npm install
 
 3) Open the App or Reload the app.
 ```
+## Description
+It's Real Estate demo project with basic functionality of search, map etc. 
 
 ## Functionality
 
